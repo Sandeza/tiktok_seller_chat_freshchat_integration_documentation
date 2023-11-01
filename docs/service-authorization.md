@@ -28,12 +28,11 @@ Kindly go through the list of services that are provided by our app, only then a
 
 #### Step 5: You will be redirected to a static page.
 
-After authorizing you will be redirected to a static page. Wait for a few seconds; you will we redirected to another page automatically.
+After authorizing you will be redirected to a static page. Wait for a few seconds; you will we redirected to another static web page automatically.
 
 <img src="./tiktok_seller_authorize_images/5-static_redirect_authorze_screen.png" alt="static_redirect_authorze_screen">
 
 #### Step 6: Copy the complete browser URL link:
 
-You will be redirected to a Freshchat page. Copy the browser URL from the page. This URL is the one you will be pasting in Freshchat install page under the "Auth Code URL" field.
-
-<img src="./tiktok_seller_authorize_images/6-auth_code_screen.png" alt="auth_code_screen">
+Finally you will be redirected to a Webpage page. Wait for around 05 seconds.
+<img src="./tiktok_seller_authorize_images/6-final_screen.png" alt="final_screen">

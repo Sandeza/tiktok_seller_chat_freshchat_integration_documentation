@@ -18,7 +18,7 @@ Search for "Marketplace Apps" in the serach bar In the Marketplace Apps page and
 
 #### Step 3: Installation page for the app.
 
-In the Marketplace Apps page search for our app "Tiktok Seller Chat" in the search bar and then get navigated.Once you reach our app page, click the install button which will navigate you to the app installation parameters page.
+In the Marketplace Apps page search for our app "Tiktok Seller Chat" in the search bar. Once you reach our app page, click the install button which will navigate you to the app installation parameters page.
 
 <img src="./freshchat_app_install_images/3-iparams_page.png" alt="iparams_page">
 
@@ -30,7 +30,7 @@ From the "Admin Settings" page, navigate to your login logo, which is in the top
 
 #### Step 5: Fill in the Freshchat related details.
 
-From the credientals that you copied, paste it in the appropriate fields, i.e., the "Freshchat Domain" and "Freshchat API Key" and verify it.
+From the credientals that you copied, paste it in the appropriate fields, i.e., the "Freshchat Domain" and "Freshchat API Key" and click the "Verify" button.
 
 #### Step 6: Verify the credientals:
 
@@ -40,11 +40,7 @@ If the credientals are appropriate, you will receive a "Verified Successfully" n
 
 ##### NOTE: Only proceed to the next step if you recieve the "Verified Successfully" notification.
 
-#### Step 7: Fill in the Tiktok Seller Chat Auth Code URL.
-
-Under the "Auth Code URL" paste the URL that you procured from the browser URL in "Service Authorization" "Step 6". 
-
-#### Step 8: Fill in the Tiktok Seller Chat Shop Code.
+#### Step 7: Fill in the Tiktok Seller Chat Shop Code.
 
 Login to your Tiktok Seller Account and navigate to your shop name in the top right corner and copy the shop code and paste it in the "Tiktok Seller Shop Code".
 
