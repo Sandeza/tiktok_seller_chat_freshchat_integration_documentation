@@ -18,7 +18,7 @@ Search for "Marketplace Apps" in the serach bar In the Marketplace Apps page and
 
 #### Step 3: Installation page for the app.
 
-In the Marketplace Apps page search for our app "Tiktok Seller Chat" in the search bar. Once you reach our app page, click the install button which will navigate you to the app installation parameters page.
+In the Marketplace Apps page search for our app "Tiktok Shop Channel" in the search bar. Once you reach our app page, click the install button which will navigate you to the app installation parameters page.
 
 <img src="./freshchat_app_install_images/3-iparams_page.png" alt="iparams_page">
 
