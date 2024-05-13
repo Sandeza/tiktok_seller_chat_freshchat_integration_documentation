@@ -24,7 +24,7 @@ In the Marketplace Apps page search for our app "Tiktok Seller Chat" in the sear
 
 #### Step 4: Copy the  credientals.
 
-From the "Admin Settings" page, navigate to your login logo, which is in the top right corner and select the "Settings" option. In that settings page select the "Api Settings" tab and copy only the credientals which is under the "API DETAILS FOR CHAT" heading.
+Click the link phrase "Find my Freshchat Domain and API Key", which will redirect you to your API settings page.Copy your Freshchat related credientals i.e. under the heading "API details for chat". Copy both "Your chat URL" and "Your API Key".
 
 <img src="./freshchat_app_install_images/4-api_settings_page.png" alt="api_settings_page">
 
@@ -40,7 +40,15 @@ If the credientals are appropriate, you will receive a "Verified Successfully" n
 
 ##### NOTE: Only proceed to the next step if you recieve the "Verified Successfully" notification.
 
-#### Step 7: Fill in the Tiktok Seller Chat Shop Code.
+#### Step 7: Authorize your shop.
+
+If you haven't authorized your shop for our application's service before, follow this step, else skip this. 
+
+If your shop is based in US region, select the "US Region" option, for other Asian or European Region based shops, select the "Others" option. Once selected your region click the "Authorize" button and follow the authorization process by clicking the link below.
+
+[Service Authorization](service-authorization.md)
+
+#### Step 8: Fill in the Tiktok Seller Chat Shop Code.
 
 Login to your Tiktok Seller Account and navigate to your shop name in the top right corner and copy the shop code and paste it in the "Tiktok Seller Shop Code".
 

@@ -1,12 +1,18 @@
  # Tiktok Seller Account Shop Authorization
 
-In this guide, we will walk you through the authorization process of our service.
+In this guide, we will walk you through the authorization process for our chat service.
 
-#### Step 1: Open the link your browser.
+#### Step 1: Authorization Web page.
 
-In the address bar, enter the given URL and ensure that the browser window resembles the image below:
+After navigating to the authorization page you might get a web page or a pop-up which resembles to the image given below:
+
+For European and Asian region based shops:
 
 <img src="./tiktok_seller_authorize_images/1-select_account_type.png" alt="select_account_type">
+
+FOr US region based shops:
+
+<img src="./tiktok_seller_authorize_images/us-region-shop.png" alt="us_region_shop">
 
 #### Step 2: Select your shop region. 
 
@@ -32,7 +38,7 @@ After authorizing you will be redirected to a static page. Wait for a few second
 
 <img src="./tiktok_seller_authorize_images/5-static_redirect_authorze_screen.png" alt="static_redirect_authorze_screen">
 
-#### Step 6: Copy the complete browser URL link:
+#### Step 6: Authorization complete:
 
 Finally you will be redirected to a Webpage page. Wait for around 05 seconds.
 <img src="./tiktok_seller_authorize_images/6-final_screen.png" alt="final_screen">

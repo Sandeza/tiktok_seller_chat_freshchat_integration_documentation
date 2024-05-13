@@ -1,3 +1,3 @@
 - [Home](home.md)
-- [Service Authorization](service-authorization.md)
 - [Freshchat-Tiktok Seller Chat App Install](app-install.md)
+- [Service Authorization](service-authorization.md)
